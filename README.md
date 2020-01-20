@@ -1,4 +1,4 @@
-# Name Inverter
+# Bowling Game
 This is a Kata to practice Test Driven Development with the "Bowling" example.
  What Bowling is a game that aim to fulfill are the following requirements:
    1. Give you the score of the game.
